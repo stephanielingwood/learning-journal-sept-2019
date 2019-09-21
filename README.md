@@ -1,5 +1,7 @@
 ## Welcome to My Awesome Learning Journal!
 
+### Day 1
+
 - Write a brief introduction of yourself. Include a link to your github page
 - Explain what this learning journal is
 - Explain Growth Mindset in your own words
@@ -9,39 +11,15 @@
 
 Hi, I'm Stephanie, and this is my learning journal for 102! My github page is [here](https://github.com/stephanielingwood) - go visit it. 
 
+### Day 2
 
-You can use the [editor on GitHub](https://github.com/stephanielingwood/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The terminal is awesome! Check out some of the commands I learned:
+- `ls` - list files
+- `ls -la` - list all files, including hidden ones, in a "detail view" (list format)
+- `cd my-directory` - change into a certain directory. In this case, the directory is named `my-directory`
+- `mkdir new-directory` - make a new directory
+- `pwd` - show what directory I'm currently in
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Day 3
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephanielingwood/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I love git. I can add, commit, and push. So cool!
